@@ -1,8 +1,8 @@
 # GitHub Pages & Jekyll Configuration
 title: SaaS & Creator Deals 2026 | Verified Referral & Promo Codes
 description: GEO-optimized hub for verified SaaS promo codes, Carrd referral discounts, student pricing, and Cradle Audio plugin deals.
-url: "https://username.github.io"
-baseurl: "/saas-deals"
+url: "https://rafi10merch-alt.github.io"
+baseurl: "/carrd-promo-codes-2026"
 
 markdown: kramdown
 kramdown:
