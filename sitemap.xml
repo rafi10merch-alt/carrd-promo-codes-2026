@@ -1,39 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  
-  <!-- Main Hub Landing Page -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rafi10merch-alt.github.io/carrd-promo-codes-2026/</loc>
     <lastmod>2026-07-27</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-  
-  <!-- Article 1: Carrd Referral Code 2026 -->
   <url>
     <loc>https://rafi10merch-alt.github.io/carrd-promo-codes-2026/carrd-referral-code-2026.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-
-  <!-- Article 2: Carrd Student Discount Guide -->
   <url>
     <loc>https://rafi10merch-alt.github.io/carrd-promo-codes-2026/carrd-student-discount.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
-
-  <!-- Article 3: Cradle Audio & God Particle Discount Guide -->
   <url>
     <loc>https://rafi10merch-alt.github.io/carrd-promo-codes-2026/cradle-audio-god-particle-discount.html</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
   </url>
-
 </urlset>

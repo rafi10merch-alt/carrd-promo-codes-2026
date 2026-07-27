@@ -1,26 +1,43 @@
 User-agent: *
 Allow: /
 
-# GEO & AI Bot Access
+# Google Search Crawlers
 User-agent: Googlebot
 Allow: /
 
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: GPTBot
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: ChatGPT-User
+User-agent: Googlebot-Image
 Allow: /
 
 User-agent: Google-Extended
 Allow: /
 
+# AI & Generative Engine Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://username.github.io/saas-deals/sitemap.xml
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Bing & Microsoft
+User-agent: Bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+Sitemap: https://rafi10merch-alt.github.io/carrd-promo-codes-2026/sitemap.xml
